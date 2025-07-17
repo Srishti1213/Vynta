@@ -1,0 +1,2 @@
+FTP connection initiated to 123.45.67.89
+IRC chat opened

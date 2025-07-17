@@ -1,0 +1,6 @@
+tk
+scikit-learn
+easyocr
+python-whois
+dnspython
+PyPDF2

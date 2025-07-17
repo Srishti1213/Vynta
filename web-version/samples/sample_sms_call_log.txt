@@ -1,0 +1,2 @@
+From:+1234567890 Message: Your OTP is 1234
+Incoming Call: +1987654321 Duration: 30s

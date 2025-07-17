@@ -1,0 +1,2 @@
+/sdcard/secret_docs/plan.pdf
+/storage/emulated/0/DCIM/hidden.img

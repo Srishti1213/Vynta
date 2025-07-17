@@ -1,0 +1,2 @@
+com.example.app1: CAMERA, STORAGE
+com.example.app2: LOCATION, MICROPHONE

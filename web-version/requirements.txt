@@ -1,0 +1,7 @@
+streamlit
+python-whois
+dnspython
+scikit-learn
+easyocr
+PyPDF2
+tk
