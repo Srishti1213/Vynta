@@ -4,7 +4,7 @@
 
 presentation
 https://1drv.ms/p/c/403878e88d413891/EZeHMw-91W9EmBK8OZ8_7xABMC2ZOj0CctmkfkPuKPjyoA?e=xR4XL5
-
+sample case : https://github.com/Srishti1213/vynta_sample_case
 ## 🔍 Overview
 
 **Vynta** is a modular, AI-assisted forensic toolkit designed to detect internal data leaks, suspicious behavior, and malicious applications on **Android devices**. It leverages both **traditional forensic analysis** and **OSINT techniques** to deliver a comprehensive investigation framework for professionals, researchers, and law enforcement.
