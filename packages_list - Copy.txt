@@ -1,0 +1,6 @@
+com.android.phone
+com.google.android.gms
+com.spyapp.hiddenlogger
+com.facebook.katana
+com.stealth.fakecalculator
+

@@ -1,0 +1,4 @@
+App,Permission
+SpyCam,CAMERA
+SpyCam,RECORD_AUDIO
+Maps,ACCESS_FINE_LOCATION
