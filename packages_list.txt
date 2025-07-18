@@ -1,0 +1,3 @@
+com.example.hidden
+com.stealth.spy
+com.spyware.logger
